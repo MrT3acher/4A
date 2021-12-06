@@ -1,6 +1,6 @@
 # Android Application Auto Analysis (4A)
 
-4A is a Interactive Application Security Testing (IAST) for Android. It's based on [Objection](https://github.com/sensepost/objection/) and [Frida](frida.re/).
+4A is a Interactive Application Security Testing (IAST) for Android. It's based on [Objection](https://github.com/sensepost/objection/) and [Frida](https://frida.re/).
 
 ## What is it?
 
@@ -9,7 +9,7 @@ There are two main types of software security testing:
 1. Static Application Security Testing (SAST)
 2. Dynamic Application Security Testing (DAST)
 
-A lot of people believe that no one is the best! so we should merge them to get the best outcome. there are different approaches to merge SAST and DAST. One of these approaches is IAST. Android Application Auto Analysis (4A) is a tool for doing Interactive Application Security Testing. We used the power of [Frida](frida.re/) for Software Instrumentation and [Objection](https://github.com/sensepost/objection/) for UI/UX.
+A lot of people believe that no one is the best! so we should merge them to get the best outcome. there are different approaches to merge SAST and DAST. One of these approaches is IAST. Android Application Auto Analysis (4A) is a tool for doing Interactive Application Security Testing. We used the power of [Frida](https://frida.re/) for Software Instrumentation and [Objection](https://github.com/sensepost/objection/) for UI/UX.
 
 ## How To Use
 
