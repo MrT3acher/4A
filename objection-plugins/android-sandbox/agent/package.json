@@ -23,7 +23,7 @@
   "author": "Mr.T3acher",
   "license": "GPL-3.0",
   "dependencies": {
-    "frida-fs": "^3.0.1",
+    "frida-fs": "^3.0.2",
     "frida-java-bridge": "^3",
     "frida-objc-bridge": "^5",
     "frida-screenshot": "^3",
