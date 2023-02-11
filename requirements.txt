@@ -4,3 +4,4 @@ click
 androguard
 unqlite
 mitmdump
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
