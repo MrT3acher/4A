@@ -50,6 +50,20 @@ now you should install it on your device:
 adb install app.objection.apk
 ```
 
+### Prepare Frida Script
+
+Go to `objection-plugins/android-sandbox/agent` directory.
+```
+cd objection-plugins/android-sandbox/agent
+```
+
+Then:
+```
+npm i
+```
+
+A file named index.js should be created in `android-sandbox` directory.
+
 ### Run 4A
 
 Then, run the app from android and run this command in your computer:
