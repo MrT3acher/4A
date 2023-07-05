@@ -4,3 +4,4 @@ click
 androguard
 unqlite
 mitmdump
+cryptography>=41.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
